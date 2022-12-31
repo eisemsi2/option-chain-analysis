@@ -4,8 +4,8 @@ import matplotlib.dates
 import time
 from datetime import datetime
 
-array = np.array([0.1,0.15,0.2])
-time_m = np.array([2100,2130,2200])
+array = np.array([])
+time_m = np.array([])
 while(True) :
     import putcallratio as pcr
     print(pcr.putcallratio())
