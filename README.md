@@ -8,3 +8,4 @@ graph.py gives graph of put-call ratio vs time on a realtime basis for intervals
 This project is not complete !
 
 trying git using linux
+#######################################
