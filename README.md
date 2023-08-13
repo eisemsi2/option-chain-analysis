@@ -3,3 +3,5 @@ In this project I have taken option chain data of BANKNIFTY from NSE website, re
 graph.py gives graph of put-call ratio vs time on a realtime basis for intervals of 5 minutes.
 
 This project is not complete !
+
+Trying git using linux
